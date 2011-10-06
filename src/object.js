@@ -156,6 +156,7 @@ fsg.options = function(element) {
 	this.element._parent = this;
 	this.element.classList.add('options');
 	this.element.classList.add('hidden');
+	this.element.setAttribute('draggable',true);
 	
 	this.title = document.createElement('div');
 	this.title.innerHTML = "";

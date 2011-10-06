@@ -1,7 +1,7 @@
 #toolbar {
-	margin: 0 10px 0 0;
-	float: left;
-	width: 150px;
+	position: absolute;
+	left: 5%;
+	width: 15%;
 }
 
 #toolbar .object {
@@ -37,9 +37,9 @@
 }
 
 #edit {
-	margin: 0 0 0 10px;
-	float: left;
-	width: 520px;
+	position: absolute;
+	left: 30%;
+	width: 65%;
 	height: 480px;
 	border: 1px solid #CEB894;
 	border-radius: 3px;
