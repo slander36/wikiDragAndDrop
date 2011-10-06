@@ -2,6 +2,7 @@
 	position: absolute;
 	left: 5%;
 	width: 15%;
+	color: #222;
 }
 
 #toolbar .object {
@@ -46,6 +47,7 @@
 	background: #E5E0D7;
 	resize: vertical;
 	overflow: auto;
+	color: #222;
 }
 
 .options {
